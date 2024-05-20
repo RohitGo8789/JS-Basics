@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* .box{
+    margin: 3px;
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    background-color: blueviolet;
+} */
+
+.para_class{
+    background-color: blueviolet;
+    /* color: antiquewhite; */
+    font-size: 1rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.new_class{
+    background-color: yellow;
+}
